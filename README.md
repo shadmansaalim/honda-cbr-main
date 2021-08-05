@@ -1,3 +1,2 @@
-# honda-cbr-assignment
+# honda-cbr-bike-website-
 
-Live Site Link - https://shadmansaalim-honda-bike.netlify.app/
